@@ -9,6 +9,7 @@
 
 # you may install these packages with `oil package`.
 # http://fuelphp.com/docs/packages/oil/package.html
+-- // gnore a library lock file http://getcom // --
 # /fuel/packages/auth/
 # /fuel/packages/email/
 # /fuel/packages/oil/
