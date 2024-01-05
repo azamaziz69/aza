@@ -15,3 +15,8 @@ t ORDER BY
 (CASE
     WHEN City IS NULL THEN Country
     ELSE City
+
+ t2 ORDER BY
+ (CASE
+    WHEN City IS NULL THEN Country
+    ELSE City
