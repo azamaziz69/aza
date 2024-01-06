@@ -1,6 +1,6 @@
 // Start
 
-w  ORDER BY
+wR  ORDER BY
 (CASE
     WHEN City IS NULL THEN Country
     ELSE City
