@@ -3,7 +3,7 @@
 wR  ORDER BY
 (CASE
     WHEN City IS NULL THEN Country
-    ELSE City
+    ELSE Cityyy
      ELSE COUN
      ELSE DGEERF
 
