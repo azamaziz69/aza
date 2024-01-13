@@ -5,7 +5,7 @@ wR  ORDER BY
     WHEN City IS NULL THEN Country
     ELSE Cit
      ELSE COUN
-     ELSE DGEER
+     ELSE DGER
 
 x ORDER BY
 (CASE
