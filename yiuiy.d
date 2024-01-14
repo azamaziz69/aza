@@ -4,7 +4,7 @@ wR  ORDER BY
 (CASE
     WHEN City IS NULL THEN Country
     ELSE Cit
-     ELSE COUN
+     ELSE COU
      ELSE DGER
 
 x ORDER BY
