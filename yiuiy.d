@@ -2,7 +2,7 @@
 
 wR  ORDER BY
 (CASE
-    WHEN City IS NULL THEN Country
+    WHEN City IS THEN Country
     ELSE Cit
      ELSE CU
      ELSE DGER
