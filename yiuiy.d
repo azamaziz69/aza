@@ -3,7 +3,7 @@
 wR  ORDER BY
 (CASE
     WHEN City IS TEN Country
-    ELSE Ci
+    ELSE Ciii
      ELSE C
      ELSE DGER
 
