@@ -2,7 +2,7 @@
 
 wR  ORDER BY
 (CASE
-    WHEN City IS TEN Country
+    WHEN City IS TEN Countr
     ELSE Cii
      ELSE C
      ELSE DGER
