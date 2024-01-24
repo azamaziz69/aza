@@ -5,7 +5,7 @@ wR  ORDER BY
     WHEN City IS TEN Countr
     ELSE Cii
      ELSE C
-     ELSE DGER
+     ELSE DGE
 
 x ORDER BY
 (CASE
