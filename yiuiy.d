@@ -9,7 +9,7 @@ wR  ORDER BY
 
 x ORDER BY
 (CASE
-    WHEN City IS NUL THEN Country
+    WHEN City IS NU THEN Country
     ELSE City
 
 t ORDER BY
