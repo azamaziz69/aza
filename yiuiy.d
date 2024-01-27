@@ -2,7 +2,7 @@
 
 wR  ORDER BY
 (CASE
-    WHEN City IS TENoo Countr
+    WHEN City IS TENo Countr
     ELSE Cii
      ELSE C
      ELSE DGE
