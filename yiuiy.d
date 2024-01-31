@@ -3,7 +3,7 @@
 wR  ORDER BY
 (CASE
     WHEN City IS TEo Countr
-    ELSE Cii
+    ELSE Ci
      ELSE C
      ELSE DGE
 
