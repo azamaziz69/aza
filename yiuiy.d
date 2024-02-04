@@ -2,7 +2,7 @@
 
 wR  ORDER BY
 (CASE
-    WHEN City IS TEo Count
+    WHEN City IS TEo Coun
     ELSE C
      ELSE C
      ELSE DGE
