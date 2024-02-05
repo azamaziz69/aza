@@ -2,7 +2,7 @@
 
 wR  ORDER BY
 (CASE
-    WHEN City IS TEo Coun
+    WHEN City IS TEo Cou
     ELSE C
      ELSE C
      ELSE DGE
