@@ -5,7 +5,7 @@ wR  ORDER BY
     WHEN City IS TEo Cou
     ELSE C
      ELSE C
-     ELSE DGE
+     ELSE DG
 
 x ORDER BY
 (CASE
