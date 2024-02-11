@@ -4,7 +4,7 @@ wR  ORDER BY
 (CASE
     WHEN City IS To 
     ELSE C
-     ELSE C
+     ELSE 
      ELSE DG
 
 x ORDER BY
