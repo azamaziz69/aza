@@ -3,7 +3,7 @@
 wR  ORDER BY
 (CASE
     WHEN City IS To 
-    ELSE C
+    ELSE Coo
      ELSE 
      ELSE DG
 
