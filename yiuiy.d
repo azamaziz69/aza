@@ -2,7 +2,7 @@
 
 wR  ORDER BY
 (CASE
-    WHEN City IS T
+    WHEN ity IS T
     ELSE Coo
      ELSE 
      ELSE DG
