@@ -1,6 +1,6 @@
 // Start
 
-wR  ORDER BY
+wR  ORDR BY
 (CASE
     WHEN ity IS T
     ELSE Coo
