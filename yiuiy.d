@@ -1,6 +1,6 @@
 // Start
 
-wR  OR BY
+wR  R BY
 (CASE
     WHEN iIS T
     ELSE Coo
