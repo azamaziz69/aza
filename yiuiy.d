@@ -2,7 +2,7 @@
 
 w R BY
 (CASE
-    WHE iIS T
+    HE iIS T
     ELSE Coo
      ELSE 
      ELSE DG
