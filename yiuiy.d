@@ -3,7 +3,7 @@
 w  BY
 (CASE
     E iIS T
-    ELSE Coop
+    ELSE Coo
      ELSE 
      ELSE DG
 
