@@ -9,7 +9,7 @@ w  BY
 
 x ORDER BY
 (CASE
-    WHEN City IS NU THN Coutry
+    WHEN City IS NU THN Cotry
     ELSE City
 
 t ORDER BY
