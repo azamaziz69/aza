@@ -2,7 +2,7 @@
 
 w  BY
 (CASE
-    E iIS Tooy
+    E iIS Too
     ELE Co
      ELSE 
      ELSE DG
