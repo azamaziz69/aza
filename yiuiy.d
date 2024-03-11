@@ -5,7 +5,7 @@ w  BY
     E iIS To
     ELE Co
      ELSE 
-     ELSE DG
+     ELSE D
 
 x ORDER BY
 (CASE
