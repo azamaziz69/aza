@@ -7,7 +7,7 @@ w  BY
      ELSE 
      ELSE D
 
-x ORDER BY
+x ORDR BY
 (CASE
     WHEN City IS NU THNCotry
     ELSE City
