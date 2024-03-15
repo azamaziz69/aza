@@ -9,7 +9,7 @@ w  BY
 
 x ODR BY
 (CASE
-    WHEN City IS NU THNCotry
+    WHEN City IS NU THNCoty
     ELSE City
 
 t ORDER BY
