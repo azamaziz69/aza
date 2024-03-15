@@ -2,7 +2,7 @@
 
 w  BY
 (CASE
-    E iIS To
+    E iS To
     ELE C
      ELSE 
      ELSE D
