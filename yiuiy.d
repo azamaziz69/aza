@@ -4,7 +4,7 @@ w  BY
 (CASE
     E iS To
     ELE C
-     ELSE 
+     ELS
      ELSE D
 
 x ODR BY
