@@ -3,7 +3,7 @@
 w  BY
 (CASE
     E iS To
-    ELE C
+    ELEC
      ELS
      ELSE D
 
