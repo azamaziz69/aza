@@ -5,7 +5,7 @@ w  BY
     E iS To
     ELEC
      ELS
-     ELSE D
+     ELE D
 
 x ODR BY
 (CASE
