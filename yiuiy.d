@@ -9,7 +9,7 @@ w  BY
 
 x ODR BY
 (CASE
-    WHEN Ciy IS N THN
+    WHEN Ciy IS N TH
     ELSE City
 
 t ORDER BY
