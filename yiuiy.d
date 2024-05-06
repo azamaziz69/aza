@@ -2,7 +2,7 @@
 
 w  BY
 (CASE
-    E iS T
+    E iST
     ELE
      ELS
      ELE D
