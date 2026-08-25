@@ -31,6 +31,4 @@ vless://3aed8800-aac2-4988-9265-dbbdb37641a9@94.140.0.255:8443?encryption=none&s
 vless://3aed8800-aac2-4988-9265-dbbdb37641a9@188.114.97.6:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇺🇸 07
 vless://3aed8800-aac2-4988-9265-dbbdb37641a9@b2n.ir:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇺🇸 08
 vless://3aed8800-aac2-4988-9265-dbbdb37641a9@103.31.4.234:8443?encryption=none&security=tls&sni=usa-cdn.gloryglorymanunited.ir&type=ws&host=usa-cdn.gloryglorymanunited.ir&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🇺🇸 09
-vless://3aed8800-aac2-4988-9265-dbbdb37641a9@caboose.proxy.rlwy.net:28747?encryption=none&security=reality&sni=www.cloudflare.com&fp=ios&pbk=oGZhHFhFGatH0FcL7XA9_-oDbaIQ1XAsU5ICZk36ehg&sid=f542680d4c&packetEncoding=xudp#🇺🇸 10
-vless://3aed8800-aac2-4988-9265-dbbdb37641a9@yamabiko.proxy.rlwy.net:49835?encryption=none&security=reality&sni=www.cloudflare.com&fp=ios&pbk=Rk5RJ9UKculG8WdHwoePgJyIFCmBjFy7k-OnFjDNbWQ&sid=f0e699f3c41621eb&packetEncoding=xudp#🇺🇸 11
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?packetEncoding=xudp#🇺🇸 12
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?packetEncoding=xudp#🇺🇸 10
